@@ -53,7 +53,7 @@ def work(n: int = 1):
     total = 0
     for i in range(n):
         total += i  # simulate doing "work"
-    return {"email": "youremail@example.com", "done": n}
+    return {"email": "23f1001855@ds.study.iitm.ac.in", "done": n}
 
 # ---- Endpoint: /metrics ----
 @app.get("/metrics")
